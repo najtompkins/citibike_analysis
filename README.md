@@ -1,8 +1,6 @@
 # CitiBike Riders Analysis
 
-For full repository, click [here](https://github.com/najtompkins/citibike_analysis).
-
-#
+-- For full repository, click [here](https://github.com/najtompkins/citibike_analysis). --
 
 <img align="right" src="images/citi_bikes.jpg" alt="City Bikes" width="40%" height="40%">
 
