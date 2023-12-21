@@ -10,7 +10,7 @@ The purpose of this analysis is to demonstrate proficiency in Salesforce's Table
 ## Tableau Workbook Access
 For the interactive Tableau Story, click [here](https://public.tableau.com/app/profile/nathan.andrew.tompkins/viz/CitiBike2_16981002014400/Story1?publish=yes).
 
-For the Tableau .twbx download, click [here](LINK TO WORKBOOK).
+For the Tableau .twbx download, click [here](citibike_analysis.twbx).
 
 ## Data Overview
 - **Total Number of Rides Recorded:** 312,868
