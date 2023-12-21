@@ -26,7 +26,7 @@ For the Tableau .twbx download, click [here](citibike_analysis.twbx).
 
 1. Jersey City
    <img align="right" src="images/jersey_city.png" alt="City Bikes">
-   1.1 The data reveals that the most popular cluster of stations can be found in Jersey City, New Jersey. This could be because, according to [walkscore.com](https://www.walkscore.com/NJ/Jersey_City), "Jersey City has an average Walk Score of 87 with 247,597 residents" and "has excellent public transportation and is somewhat bikeable." Over 89,686 (28%) of all rides beginning or ending at these stations.
+   1.1 The data reveals that the most popular cluster of stations can be found in Jersey City, New Jersey. This could be because, according to [walkscore.com](https://www.walkscore.com/NJ/Jersey_City), "Jersey City has an average Walk Score of 87 with 247,597 residents" and "has excellent public transportation and is somewhat bikeable." Over 89,686 (28%) of all rides beginning or ending at these stations. <br>
    1.2 *Consider investing in increased cleanliness/maintenance for these stations, as well as developing a marketing strategy to solidify CitiBike as a part of the Jersey City Identity.* <br>
 
 3. Peak Evening Hours
