@@ -1,5 +1,9 @@
 # CitiBike Riders Analysis
 
+For full repository, click [here](https://github.com/najtompkins/citibike_analysis).
+
+#
+
 <img align="right" src="images/citi_bikes.jpg" alt="City Bikes" width="40%" height="40%">
 
 The purpose of this analysis is to demonstrate proficiency in Salesforce's Tableau Public by presenting an analysis performed on CitiBike's own historical records found at [https://s3.amazonaws.com/tripdata/index.html](https://s3.amazonaws.com/tripdata/index.html). The visual analysis and insights of CitiBike rides span the summer months of July-September 2023.
